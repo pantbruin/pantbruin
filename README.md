@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Jesse</h1>
 <!--
 **pantbruin/pantbruin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jesse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pantbruin&show_icons=true&theme=darcula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantbruin&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+<div><img src="https://github-readme-stats.vercel.app/api?username=pantbruin&show_icons=true&theme=darcula"></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pantbruin&langs_count=5"></div>
